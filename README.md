@@ -7,4 +7,4 @@ WebApp link : https://comradesurendra.github.io/HangMan/
 
 Design WorkFlow--
 
-![alt text](https://github.com/comradesurendra/HangMan/flowChart.png.jpg?raw=true)
+![alt text](https://raw.githubusercontent.com/comradesurendra/HangMan/master/flowChart.png)
