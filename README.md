@@ -5,6 +5,6 @@
 ##### Role: Full-Stack Developer | Tech Stack: HTML, CSS, JavaScript.
 #### WebApp link : https://comradesurendra.github.io/HangMan/
 
-### Design Work Flow 
+### Design Workflow 
 
 ![alt text](https://raw.githubusercontent.com/comradesurendra/HangMan/master/flowChart.png)
